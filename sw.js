@@ -1,4 +1,4 @@
-const CACHE_NAME = "daily-journal-offline-v1";
+const CACHE_NAME = "daily-journal-offline-v2";
 const CORE_URLS = [
   "/",
   "/manifest.webmanifest",
